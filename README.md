@@ -1,6 +1,5 @@
-# Minecraft-Themed Portfolio
-
-![Uploading Screenshot 2023-12-14 at 5.39.00 PM.png…]()
+Minecraft-Themed Portfolio
+<img width="1262" alt="Screenshot 2023-12-14 at 5 39 00 PM" src="https://github.com/sarabindalmook/commlabportfolio.github.io/assets/145615356/931d4dda-85f1-4bd9-811f-f4f05828558f"># 
 
 Hello and welcome to my Minecraft-inspired portfolio! Here, I've crafted a nostalgic journey into the pixelated world of Minecraft, showcasing my passion and creativity through various projects throughout the Fall 2023 semester.
 
