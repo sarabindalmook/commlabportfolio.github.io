@@ -2,7 +2,7 @@
 
 Hello and welcome to my Minecraft-inspired portfolio! Here, I've crafted a nostalgic journey into the pixelated world of Minecraft, showcasing my passion and creativity through various projects throughout the Fall 2023 semester.
 
-## Projects
+## Components
 
 ### 1. Homepage
 
@@ -25,9 +25,9 @@ The website allows users to listen to the original Minecraft sound as you naviga
 
 ### 6. 3D Animation
 
-Explore the challenging 3D animation on the main page. The animation encapsulates the spirit of Minecraft, reflecting the effort put into aligning and duplicating details from the original game. Main page was not entirely made from scratch, it is used from external resources linked below.
+Explore the challenging 3D animation on the main page. The animation encapsulates the spirit of Minecraft, reflecting the effort put into aligning and duplicating details from the original game. Main page was not entirely made from scratch, it is used from external resources linked below with minor adjustments.
 
-## Struggles
+## Challenges
 
 Building this Minecraft-themed portfolio came with its share of challenges:
 
