@@ -29,8 +29,6 @@ Explore the challenging 3D animation on the main page. The animation encapsulate
 
 ## Challenges
 
-Building this Minecraft-themed portfolio came with its share of challenges:
-
 ### - Clickable Elements
 
 Crafting clickable elements that respond was challenging. Balancing user experience while staying true to the Minecraft theme required careful consideration of interaction design.
