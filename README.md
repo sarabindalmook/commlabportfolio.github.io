@@ -1,5 +1,7 @@
 # Minecraft-Themed Portfolio
 
+![Uploading Screenshot 2023-12-14 at 5.39.00 PM.png…]()
+
 Hello and welcome to my Minecraft-inspired portfolio! Here, I've crafted a nostalgic journey into the pixelated world of Minecraft, showcasing my passion and creativity through various projects throughout the Fall 2023 semester.
 
 ## Components
